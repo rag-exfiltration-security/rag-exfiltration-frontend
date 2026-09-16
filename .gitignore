@@ -1,0 +1,9 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env
+.env.local
+
+# Sistema
+.DS_Store
